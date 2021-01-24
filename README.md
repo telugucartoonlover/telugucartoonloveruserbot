@@ -20,7 +20,7 @@ Best User Bot To Manage Your Telegram Account
 ## Installing Heroku 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akhilsivakosana1/TCLUSERBOT/)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/telugucartoonlover/telugucartoonloveruserbot/)
 
 Take Sting session from Replit
 [![Run on Repl.it](https://generatestringsession.akhilsiva.repl.run)](https://generatestringsession.akhilsiva.repl.run)
